@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317117560013",
+    "firebase_url": "https://idpparkingapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "idpparkingapp",
+    "storage_bucket": "idpparkingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317117560013:android:b7b59af6cfab5735d9e584",
+        "android_client_info": {
+          "package_name": "com.example.idp_parking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317117560013-3d0rsdd7bdhrtjc60rmlsb76plnnss78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq52m3LtWaIjT8GXKiu_Yzu-LeGufrRw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317117560013-3d0rsdd7bdhrtjc60rmlsb76plnnss78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317117560013-iejhlnt3b34g79maju6t5dpqee8fs6nd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.testing.idpParkingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
